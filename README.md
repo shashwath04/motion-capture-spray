@@ -1,1 +1,1 @@
-# motion-capture-spray
+# Motion Capture Spray
